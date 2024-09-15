@@ -28,7 +28,7 @@ const HeroContent = () => {
 
         <motion.div
           variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
+          className="flex flex-col gap-6 mt-6 text-6xl font-bold sm:text-white max-w-[600px] w-auto h-auto"
         >
           <span>
             Hello, I&apos;M
@@ -53,10 +53,10 @@ const HeroContent = () => {
         </motion.p>
         
 
-        <div className="space-x-[10px] mt-10">
+        <div className="space-x-[10px] mt-10 flex flex-wrap gap-10 justify-center">
         <motion.a
           variants={slideInFromLeft(1)}
-          className="p-3 border text-center  cursor-pointer rounded-lg max-w-[200px] button-primary text-white "
+          className="p-3 border text-center  cursor-pointer rounded-lg max-w-[200px] button-primary text-white"
           >
           <a href="">Download CV</a> 
 
