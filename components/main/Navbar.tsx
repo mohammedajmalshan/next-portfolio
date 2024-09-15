@@ -14,7 +14,7 @@ const Navbar = () => {
          
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            <span className="font-bold flex gap-[5px]">
+            <span className="font-bold sm:hidden flex gap-[5px]">
               <a href="#" >
               Portfolio
                 </a>
