@@ -1,6 +1,5 @@
 import React from "react";
 import ProjectCard from "../sub/ProjectCard";
-import Footer from "./Footer";
 
 const Projects = () => {
   return (
@@ -28,7 +27,6 @@ const Projects = () => {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
       </div>
-      <Footer />
     </div>
   );
 };

@@ -1,5 +1,3 @@
-import { delay } from "framer-motion";
-
 export function slideInFromLeft(delay: number) {
     return {
       hidden: { x: -100, opacity: 0 },
