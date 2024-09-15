@@ -65,7 +65,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(1)}
           className="p-3  text-center text-white cursor-pointer rounded-lg max-w-[200px] border hover:text-black hover:bg-white"
           >
-          <a href="mailto:your.mohammedajmalshan@yahoo.com">Contact Me</a> 
+          <a href="mailto:mohammedajmalshan@yahoo.com">Contact Me</a> 
 
         </motion.a>
         </div>
