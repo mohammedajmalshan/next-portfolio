@@ -93,7 +93,7 @@ export const Skill_data = [
       skill_name: "Java Script",
       Image: "/js.png",
       width: 80,
-      height: ,
+      height: 80,
     },
     {
       skill_name: "Tailwind Css",
