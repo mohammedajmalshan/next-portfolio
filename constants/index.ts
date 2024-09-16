@@ -178,7 +178,10 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-     
+     skill_name: "Figma",
+      Image: "/figma.png",
+      width: 50,
+      height: 50,
     },
   ];
   
