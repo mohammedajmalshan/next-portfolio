@@ -14,15 +14,15 @@ export const Skill_data = [
     },
     {
       skill_name: "git",
-      Image: "/gitwhite.png",
+      Image: "/git.png",
       width: 80,
       height: 80,
     },
     {
       skill_name: "postman",
       Image: "/postman.png",
-      width: 0,
-      height: 0,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "",
