@@ -25,17 +25,17 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
+      skill_name: "figma",
+      Image: "/figma.png",
+      width: 80,
+      height: 80,
     },
     
     {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
+      skill_name: "linux",
+      Image: "/linux.png",
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "",
