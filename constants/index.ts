@@ -19,8 +19,8 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "",
-      Image: "",
+      skill_name: "postman",
+      Image: "/postman.png",
       width: 0,
       height: 0,
     },
