@@ -2,14 +2,14 @@ export const Skill_data = [
     {
       skill_name: "vscode",
       Image: "/vscode.png",
-      width: 0,
-      height: 0,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "git",
       Image: "/git.png",
-      width: 0,
-      height: 0,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "",
@@ -92,8 +92,8 @@ export const Skill_data = [
     {
       skill_name: "Java Script",
       Image: "/js.png",
-      width: 65,
-      height: 65,
+      width: 80,
+      height: ,
     },
     {
       skill_name: "Tailwind Css",
@@ -140,14 +140,14 @@ export const Skill_data = [
     {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
-      width: 40,
-      height: 40,
+      width: 80,
+      height: 80,
     },
     {
       skill_name: "Fire base",
       Image: "/Firebase.png",
-      width: 55,
-      height: 55,
+      width: 80,
+      height: 80,
     }
   ];
   
@@ -157,8 +157,8 @@ export const Skill_data = [
     {
       skill_name: "Figma",
       Image: "/figma.png",
-      width: 50,
-      height: 50,
+      width: 80,
+      height: 80,
     },
   
   ];
