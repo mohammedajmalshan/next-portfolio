@@ -1,5 +1,12 @@
 export const Skill_data = [
+   
     {
+      skill_name: "github",
+      Image: "gitwhite/png",
+      width: 80,
+      height: 80,
+    },
+     {
       skill_name: "vscode",
       Image: "/vscode.png",
       width: 80,
@@ -10,12 +17,6 @@ export const Skill_data = [
       Image: "/git.png",
       width: 80,
       height: 80,
-    },
-    {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
     },
     {
       skill_name: "",
