@@ -1,14 +1,15 @@
 export const Skill_data = [
    
-    {
-      skill_name: "github",
-      Image: "/gitwhite.png",
-      width: 80,
-      height: 80,
-    },
+
      {
       skill_name: "vscode",
       Image: "/vscode.png",
+      width: 80,
+      height: 80,
+    },
+       {
+      skill_name: "github",
+      Image: "/gitwhite.png",
       width: 80,
       height: 80,
     },
@@ -27,16 +28,11 @@ export const Skill_data = [
     {
       skill_name: "figma",
       Image: "/figma.png",
-      width: 80,
-      height: 80,
+      width: 65,
+      height: 65,
     },
     
-    {
-      skill_name: "linux",
-      Image: "/linux.png",
-      width: 80,
-      height: 80,
-    },
+  
     {
       skill_name: "",
       Image: "",
@@ -167,6 +163,12 @@ export const Skill_data = [
   
   
   export const Other_skill = [
+       {
+      skill_name: "linux",
+      Image: "/linux.png",
+      width: 80,
+      height: 80,
+    },
     {
      skill_name: "",
       Image: "",
