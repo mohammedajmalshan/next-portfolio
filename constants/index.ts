@@ -1,13 +1,13 @@
 export const Skill_data = [
     {
-      skill_name: "",
-      Image: "",
+      skill_name: "vscode",
+      Image: "/vscode.png",
       width: 0,
       height: 0,
     },
     {
-      skill_name: "",
-      Image: "",
+      skill_name: "git",
+      Image: "/git.png",
       width: 0,
       height: 0,
     },
