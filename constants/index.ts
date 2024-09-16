@@ -163,18 +163,34 @@ export const Skill_data = [
   
   
   export const Other_skill = [
+     
+    {
+     skill_name: "windows",
+      Image: "/windows.png",
+      width: 80,
+      height: 80,
+    },
        {
       skill_name: "linux",
       Image: "/linux.png",
       width: 80,
       height: 80,
     },
-    {
-     skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
+     {
+     skill_name: "macos",
+      Image: "/macos.png",
+      width: 80,
+      height: 80,
     },
+       {
+     skill_name: "arch linux",
+      Image: "/arch.png",
+      width: 80,
+      height: 80,
+    },
+     
+     
+       
   ];
   
   
