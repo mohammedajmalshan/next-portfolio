@@ -1,5 +1,10 @@
 export const Skill_data = [
-   
+    {
+      skill_name: "",
+      Image: "",
+      width: 0,
+      height:0 ,
+    },
 
      
   
@@ -86,8 +91,8 @@ export const Skill_data = [
     {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
-      width: 65,
-      height: 65,
+      width: 50,
+      height: 50,
     },
     {
       skill_name: "Fire base",
