@@ -52,6 +52,20 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
+
+
+      {
+      skill_name: "chakra ui",
+      Image: "/chakra.png",
+      width: 80,
+      height: 80,
+    },
+      {
+      skill_name: "Bootstrap",
+      Image: "/bootstrap.png",
+      width: 80,
+      height: 80,
+    },
     
     {
       skill_name: "React",
