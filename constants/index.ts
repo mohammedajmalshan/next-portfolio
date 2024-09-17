@@ -1,58 +1,7 @@
 export const Skill_data = [
    
 
-     {
-      skill_name: "vscode",
-      Image: "/vscode.png",
-      width: 80,
-      height: 80,
-    },
-       {
-      skill_name: "github",
-      Image: "/gitwhite.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "git",
-      Image: "/git.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "postman",
-      Image: "/postman.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "figma",
-      Image: "/figma.png",
-      width: 65,
-      height: 65,
-    },
-    
-  
-    {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
-    },
-   
-    
-    {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
-    },
-    {
-      skill_name: "",
-      Image: "",
-      width: 0,
-      height: 0,
-    },
+     
   
   ];
   
@@ -188,7 +137,41 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-     
+     {
+      skill_name: "vscode",
+      Image: "/vscode.png",
+      width: 80,
+      height: 80,
+    },
+       {
+      skill_name: "github",
+      Image: "/gitwhite.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "git",
+      Image: "/git.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "postman",
+      Image: "/postman.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "figma",
+      Image: "/figma.png",
+      width: 65,
+      height: 65,
+    }
+    
+  
+   
+    
+ 
      
        
   ];
