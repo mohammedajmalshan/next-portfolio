@@ -186,6 +186,13 @@ export const Skill_data = [
       width: 65,
       height: 65,
     }
+        {
+      skill_name: "netlify",
+      Image: "/netlify.png",
+      width: 80,
+      height: 80,
+    }
+    
     
   
    
