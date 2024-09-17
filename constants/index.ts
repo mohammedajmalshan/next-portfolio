@@ -57,8 +57,8 @@ export const Skill_data = [
       {
       skill_name: "chakra ui",
       Image: "/chakra.jpg",
-      width: 80,
-      height: 80,
+      width: 65,
+      height: 65,
     },
       {
       skill_name: "Bootstrap",
@@ -141,8 +141,8 @@ export const Skill_data = [
        {
       skill_name: "linux",
       Image: "/linux.png",
-      width: 80,
-      height: 80,
+      width: 100,
+      height: 100,
     },
      {
      skill_name: "macos",
