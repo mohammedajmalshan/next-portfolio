@@ -185,7 +185,7 @@ export const Skill_data = [
       Image: "/figma.png",
       width: 65,
       height: 65,
-    }
+    },
         {
       skill_name: "netlify",
       Image: "/netlify.png",
