@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#03001417] backdrop-blur-md z-50 px-10">
+    <div className="hidden sm:block w-full h-[65px] fixed top-0 shadow-lg shadow-[#2A0E61]/50 bg-[#03001417] backdrop-blur-md z-50 px-10">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a
           href="#about-me"
@@ -13,8 +13,8 @@ const Navbar = () => {
         >
          
 
-          <span className="font-bold ml-[10px] text-white md:block text-gray-300">
-            <span className="font-bold hidden sm:block flex gap-[5px]">
+          <span className="font-bold ml-[10px]   md:block text-gray-300">
+            <span className="font-bold  flex gap-[5px]">
               <a href="#" >
               Portfolio
                 </a>
@@ -38,9 +38,10 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="hidden sm:visible sm:flex flex-row gap-5">
+        <div className="hidden  sm:flex flex-row gap-5">
           {Socials.map((social) => (
             <Image
+            
               src={social.src}
               alt={social.name}
               key={social.name}
