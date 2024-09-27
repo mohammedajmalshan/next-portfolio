@@ -10,21 +10,24 @@ const Projects = () => {
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         My Projects
       </h1>
+      
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="/portfolio screenshot.png"
           title="Modern Next.js Portfolio"
-          description="A beatiful website build with next js. used three js to implement the 3d effects."
+          description="
+
+A beautiful, responsive website built with Next.js, featuring interactive 3D effects powered by Three.js for a seamless, immersive experience."
         />
         <ProjectCard
           src="/netflix.png"
           title="Netflix Clone Website"
-          description="Netflix Clone website with responsiveness"
+          description="A fully responsive Netflix clone, designed to replicate the look and functionality of the original platform with modern web technologies."
         />
         <ProjectCard
           src="/productsStore.png"
           title="Product Store"
-          description="product store is a website where can add, delete and edit products. dark and light mode is there in the website."
+          description="An intuitive product store website where users can add, delete, and edit products seamlessly. It features both dark and light modes for a personalized browsing experience."
         />
       </div>
     </div>

@@ -57,16 +57,16 @@ const HeroContent = () => {
         
         <motion.a
           variants={slideInFromLeft(1)}
-          className="p-3  text-center text-white cursor-pointer rounded-lg max-w-[200px] border hover:text-black hover:bg-white"
+          className="p-3 border text-center  cursor-pointer rounded-lg w-25 button-primary text-white"
           >
-          <a href="mailto:mohammedajmalshan@yahoo.com">Contact Me</a> 
+          <a href="/ajmal cv.pdf" target="_blank" rel="noopener noreferrer" >Download CV</a> 
 
         </motion.a>
         <motion.a
           variants={slideInFromLeft(1)}
-          className="p-3 border text-center  cursor-pointer rounded-lg max-w-[200px] button-primary text-white"
+          className="p-3  text-center text-white cursor-pointer rounded-lg max-w-[200px] w-25 border hover:text-black hover:bg-white"
           >
-          <a href="">Download CV</a> 
+          <a href="mailto:mohammedajmalshan@yahoo.com">Contact Me</a> 
 
         </motion.a>
         </div>
