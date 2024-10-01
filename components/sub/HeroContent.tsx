@@ -59,7 +59,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(1)}
           className="p-3 border text-center  cursor-pointer rounded-lg w-25 button-primary text-white"
           >
-          <a href="/ajmal cv.pdf" target="_blank" rel="noopener noreferrer" >Download CV</a> 
+          <a href="/CV.pdf" target="_blank" rel="noopener noreferrer" >Download CV</a> 
 
         </motion.a>
         <motion.a
