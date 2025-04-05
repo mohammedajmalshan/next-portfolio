@@ -44,13 +44,9 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
             className="text-lg text-gray-400 my-5 max-w-[600px]"
           >
-          Aspiring Full Stack Software Engineer Passionate about crafting
-          dynamic web applications, mobile solutions, and software development.
-          I’m excited to showcase my skills and projects that highlight my
-          journey and growth in this field. Explore my portfolio to see how I
-          combine creativity and technical expertise to build innovative
-          solutions.
-        </motion.p>
+         Aspiring IT Support Engineer & Web Developer
+Passionate about delivering seamless technical support and building responsive, user-friendly web applications. I’m excited to showcase my skills and projects that reflect my journey and growth in both IT infrastructure and front-end development. Explore my portfolio to see how I combine problem-solving and technical expertise to support users and create innovative digital solutions.
+ </motion.p>
         
 
         <div className="space-x-[10px] mt-10 flex flex-wrap gap-10 justify-center">
